@@ -1,4 +1,4 @@
-package com.gamix.flutter.gstore_esprit
+package com.example.game_app
 
 import io.flutter.embedding.android.FlutterActivity
 
